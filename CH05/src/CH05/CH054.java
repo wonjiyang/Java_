@@ -7,8 +7,8 @@ public class CH054 {
 		// TODO Auto-generated method stub
 		
 		Scanner sc = new Scanner(System.in);
-		//영수증에 적힌 총 금액
-		int x = sc.nextInt();
+	
+		int x = sc.nextInt();//영수증에 적힌 총 금액
 		int N = sc.nextInt();//종류의 수
 		int total = 0;
 		
